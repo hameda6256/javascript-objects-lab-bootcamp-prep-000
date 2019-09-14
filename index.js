@@ -1,6 +1,4 @@
 
-Viewed
-@@ -0,0 +1,21 @@
 var recipes = {};
 
 function updateObjectWithKeyAndValue(object, key, value) {
